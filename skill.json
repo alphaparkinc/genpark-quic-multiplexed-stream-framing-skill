@@ -1,0 +1,17 @@
+{
+  "name": "genpark-quic-multiplexed-stream-framing-skill",
+  "version": "1.0.0",
+  "description": "QUIC transport layer framing engine providing stream multiplexing, variable-length integer encoding, packet serialization, and zero head-of-line blocking.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "quic",
+    "stream-multiplexing",
+    "network-protocols",
+    "framing",
+    "transport"
+  ],
+  "dependencies": []
+}
